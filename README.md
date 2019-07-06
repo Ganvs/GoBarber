@@ -1,4 +1,4 @@
-## GoBarber
+# GoBarber
 
 Aplicação básica para agendamento de barbeiro, elaborada no segundo módulo sobre NodeJS, do bootcamp da Rocketseat.
 
