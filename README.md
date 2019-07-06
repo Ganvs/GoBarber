@@ -1,6 +1,6 @@
 # GoBarber
 
-Aplicação básica para agendamento de barbeiro, elaborada no segundo módulo sobre NodeJS, do bootcamp da Rocketseat.
+Aplicação básica para agendamento de barbeiro, elaborada no segundo módulo sobre NodeJS, no bootcamp da Rocketseat.
 
 Este projeto foi criado para aprender sobre o funcionamento das rotas de uma aplicação, e também para entender a importância de separar o projeto utilizando o padrão [MVC](https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308).
 Para a renderização das views, foi utilizado o [Nunjucks](https://mozilla.github.io/nunjucks/).
