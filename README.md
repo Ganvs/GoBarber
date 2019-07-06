@@ -5,7 +5,7 @@ Aplicação básica para agendamento de barbeiro, elaborada no segundo módulo s
 Este projeto foi criado para aprender sobre o funcionamento das rotas de uma aplicação, e também para entender a importância de separar o projeto utilizando o padrão [MVC](https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308).
 Para a renderização das views, foi utilizado o [Nunjucks](https://mozilla.github.io/nunjucks/).
 
-A etapa de autenticação de usuários foi criada usando-se o [Sequelize](http://docs.sequelizejs.com/), que facilita muito esta etapa.
+A autenticação de usuários foi criada usando-se o [Sequelize](http://docs.sequelizejs.com/), que facilita muito esta etapa.
 
 ## Instalação
 
